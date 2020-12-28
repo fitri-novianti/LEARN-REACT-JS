@@ -1,0 +1,14 @@
+Panduan instalasi React-JS
+(Fitri Novianti)
+
+1. Install nodeJS (https://nodejs.org/) (versi LTS lebih banyak digunakan)
+2. Siapkan satu folder untuk menyimpan hasil install ReactJS (contoh E:/REACTJS/belajar-react)
+	ketikkan perintah: npm install create-react-app
+	cek apakah sudah sukses terinstall atau belum dengan perintah: create-react-app --version (jika sukses, akan ditampilkan versinya)
+3. Ketik perintah untuk membuat folder react: 
+	create-react-app nama-file
+	(tunggu beberapa saat, biasanya proses instalasi sekitar 1-3 menit)
+4. Jika sudah selesai, buka folder yang sudah dibuat dengan perintah cd (contoh: cd nama-file)
+5. Ketik perintah : npm start 
+6. Secara otomatis browser akan terbuka dan menampilkan web react dengan alamat localhost:3000
+7. Selesai
